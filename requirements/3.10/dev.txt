@@ -75,7 +75,7 @@ typing-extensions==4.12.2
     #   -c requirements/3.10/test.txt
     #   black
     #   mypy
-virtualenv==20.26.5
+virtualenv==20.26.6
     # via pre-commit
 watchdog==5.0.2
     # via -r requirements/dev.in
