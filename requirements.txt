@@ -25,7 +25,7 @@ blinker==1.7.0
     #   flask-principal
     #   flask-security-too
     #   sentry-sdk
-certifi==2024.2.2
+certifi==2024.7.4
     # via
     #   requests
     #   sentry-sdk
